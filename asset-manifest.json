@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/omadoyeabraham/scriptures-rolodex/static/css/main.1cf78d73.chunk.css",
+    "main.js": "/omadoyeabraham/scriptures-rolodex/static/js/main.0987803f.chunk.js",
+    "main.js.map": "/omadoyeabraham/scriptures-rolodex/static/js/main.0987803f.chunk.js.map",
+    "runtime-main.js": "/omadoyeabraham/scriptures-rolodex/static/js/runtime-main.a0082ac3.js",
+    "runtime-main.js.map": "/omadoyeabraham/scriptures-rolodex/static/js/runtime-main.a0082ac3.js.map",
+    "static/js/2.15ae62a3.chunk.js": "/omadoyeabraham/scriptures-rolodex/static/js/2.15ae62a3.chunk.js",
+    "static/js/2.15ae62a3.chunk.js.map": "/omadoyeabraham/scriptures-rolodex/static/js/2.15ae62a3.chunk.js.map",
+    "index.html": "/omadoyeabraham/scriptures-rolodex/index.html",
+    "precache-manifest.3f13d90b7b5a9772fbc31f1e52aca3fa.js": "/omadoyeabraham/scriptures-rolodex/precache-manifest.3f13d90b7b5a9772fbc31f1e52aca3fa.js",
+    "service-worker.js": "/omadoyeabraham/scriptures-rolodex/service-worker.js",
+    "static/css/main.1cf78d73.chunk.css.map": "/omadoyeabraham/scriptures-rolodex/static/css/main.1cf78d73.chunk.css.map",
+    "static/js/2.15ae62a3.chunk.js.LICENSE.txt": "/omadoyeabraham/scriptures-rolodex/static/js/2.15ae62a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0082ac3.js",
+    "static/js/2.15ae62a3.chunk.js",
+    "static/css/main.1cf78d73.chunk.css",
+    "static/js/main.0987803f.chunk.js"
+  ]
+}
